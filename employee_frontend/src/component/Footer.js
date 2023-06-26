@@ -5,7 +5,7 @@ const Footer =()=> {
         <div>
             <footer className='footer'>
                 <nav className='navbar navbar-expand-md navbar-dark bg-dark'>
-                <span className='text-muted' style={{color:white}}>All Rights Reserved 2023</span>
+                <span className='text-muted' style={{color: white}}>All Rights Reserved 2023</span>
                 </nav>
             </footer>
         </div>
